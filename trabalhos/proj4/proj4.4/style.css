@@ -17,6 +17,9 @@ header {
     margin-top: 5px;
     margin-left: 0;
     margin-right: 0;
+    position: sticky;
+    top: 0;
+    background-color:  #ddd;;
 }
 footer {
     color: black;
@@ -24,7 +27,6 @@ footer {
 }
 nav {
     background-color: gray;
-    width: auto;
 }
 nav ul{
     color: white;
