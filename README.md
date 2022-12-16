@@ -1,4 +1,4 @@
-# andersonaires-cc.github.io :suspect:
+# andersonaires-cc.github.io
 Trabalhos da Disciplina Desenvolvimento para Web :globe_with_meridians:
 
 Click em um dos links para abrir os projetos :smiley:
