@@ -2,7 +2,6 @@ body {
     background-color: #ddd;
     font-family: 'Helvetica Neue';
     line-height: 1.5;
-    width: 60%;
     margin:auto;
 }
 @media only screen and (max-width: 600px) {
@@ -25,6 +24,7 @@ footer {
 }
 nav {
     background-color: gray;
+    width: auto;
 }
 nav ul{
     color: white;
@@ -52,6 +52,8 @@ main {
     margin-top: 5px;
     padding: 5px;
     text-align: 10px;
+    width: 60%;
+    margin: auto;
 }
 h2 {
     color: #555;
