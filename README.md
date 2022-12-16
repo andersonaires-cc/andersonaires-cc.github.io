@@ -1,7 +1,7 @@
 # andersonaires-cc.github.io
 Trabalhos da Disciplina Desenvolvimento para Web
 
-Click em um dos links para abriri os projetos :)
+Click em um dos links para abrir os projetos :smiley:
 
 <a href="https://andersonaires-cc.github.io/trabalhos/proj1/index.html">Abra aqui o proj1</a></br>
 <a href="https://andersonaires-cc.github.io/trabalhos/proj2/index.html">Abra aqui o proj2</a></br>
