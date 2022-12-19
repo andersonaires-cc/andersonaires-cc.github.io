@@ -1,0 +1,27 @@
+body {
+    background-color: #ddd;
+    color: #444;
+    font-family: 'Helvetica Neue';
+    line-height: 1.5;
+    width: 60%;
+    display: flex;
+    margin:auto;
+}
+
+main {
+    background-color: white;
+    text-align:justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+section {
+    border-top: 2px solid gray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1,h2 {
+    margin:auto;
+    padding: 2%;
+    color: rgb(140, 76, 8);
+}
