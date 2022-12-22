@@ -1,25 +1,30 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-    
-    <head>
-        <meta charset="utf-8">
-        <title>Projeto 5.3</title>
-        <link rel="stylesheet" href="style.css">
-        <script src="script.js"></script>
-    </head>
-    <body>
-
-        <div>
-            <label for="interesse">Interesse</label>
-            <input type="text" id="interesse" name="interesse">
-            <!-- <button>Adicionar</button> -->
-        </div>
-    
-        <ol>
-            <li>Shows</li>
-            <li>Filmes</li>
-        </ol>
-    
-    
-    </body>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/estiloLista.css">
+    <title>Lista de Compras</title>
+</head>
+<body>
+    <header>
+        <h1>Lista de compras</h1>
+    </header>
+    <main>
+        <section>
+            <label for="produto">Produto:</label>
+            <input type="text" id="produto" name="produto">
+            <button onclick="adicionaProduto()" id="adc">Adicionar</button>
+            <button onclick="removerProduto()" id="remover">X</button>
+            <ol id="listaDeProdutos">
+                
+            </ol>
+        </section>
+    </main>
+    <footer>
+        
+    </footer>
+    <script src="scripts/adcProdutos.js"></script>
+</body>
 </html>

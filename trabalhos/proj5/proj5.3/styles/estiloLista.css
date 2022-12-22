@@ -1,0 +1,46 @@
+body {
+    background-color: #8AA6A3;
+    
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+button, input {
+    background-color: #fff;
+    color: #011F26;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+
+#remover, #adc{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+#adc {
+    background-color: #0CF25D;    
+}
+
+#remover {
+    background-color: #D92525;
+}
+
+#produto {
+    font-size: 1.2rem;
+}
+
+li {
+
+}
+
+
+
+
